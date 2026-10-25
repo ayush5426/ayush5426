@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Ayush
 
-<!--
-**ayush5426/ayush5426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year Information Technology student at Ajay Kumar Garg Engineering College (AKGEC).
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in software development, problem-solving, and app development.
+- Learning by building practical projects.
+- Currently strengthening my programming fundamentals.
+- Exploring web and mobile app development.
+
+Skills
+
+- Languages: C, C++, Python
+- Web: HTML, CSS
+- Currently Learning: Dart and app development
+- Tools: Git and GitHub
+
+Projects
+
+- "Evil Number Guessing Game" (YOUR_EVIL_GAME_REPO_LINK) — A Python guessing game with a number-changing twist.
+- "Number Guessing Game" (YOUR_NUMBER_GAME_REPO_LINK) — A Python game with random number generation and replay functionality.
+- "Registration Form" (YOUR_REGISTRATION_FORM_REPO_LINK) — A registration form built with HTML and CSS.
+
+Currently Working On
+
+Improving my programming skills and building more projects.
+
+---
+
+Learning by building, improving through practice.
