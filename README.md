@@ -18,9 +18,9 @@ Skills
 
 Projects
 
-- "Evil Number Guessing Game" (YOUR_EVIL_GAME_REPO_LINK) — A Python guessing game with a number-changing twist.
-- "Number Guessing Game" (YOUR_NUMBER_GAME_REPO_LINK) — A Python game with random number generation and replay functionality.
-- "Registration Form" (YOUR_REGISTRATION_FORM_REPO_LINK) — A registration form built with HTML and CSS.
+- "Evil Number Guessing Game" (https://github.com/ayush5426/evil-number-guessing-game) — A Python guessing game with a number-changing twist.
+- "Number Guessing Game" (https://github.com/ayush5426/python-number-guessing-game) — A Python game with random number generation and replay functionality.
+- "Registration Form" (https://github.com/ayush5426/registration-form) — A registration form built with HTML and CSS.
 
 Currently Working On
 
